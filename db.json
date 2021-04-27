@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Iftar",
+      "day": "Everyday at 7.20pm",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "Bazaar",
+      "day": "Khamis at 5.00pm",
+      "reminder": false,
+      "id": 8
+    },
+    {
+      "text": "Sahur",
+      "day": "Everyday at 5.00am",
+      "reminder": false,
+      "id": 9
+    }
+  ]
+}
